@@ -3,7 +3,7 @@
 **Author:** Nelson Ruthari Kariuki (24S01ACS002)  
 **Course:** CSC423: Special Topics (NLP Term Project)  
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-link-goes-here.com)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://language-identification-system-hpcjmizeyip7iezdvwvnxf.streamlit.app/)
 
 ## 📌 Project Overview
 This project is an end-to-end Natural Language Processing (NLP) pipeline designed to identify the language of short text inputs (1-2 sentences). It specifically targets a mix of high-resource, low-resource, and zero-resource African languages: **English, Swahili, Kikuyu, and Sheng** (Kenyan street slang).
